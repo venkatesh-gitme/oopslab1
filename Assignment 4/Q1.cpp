@@ -22,7 +22,7 @@ public:
 };
 
 int main(){
-    cout<<"Deepak Kumar(1024150071)"<<endl;
+    cout<<"Venkatesh Rai(1024150086)"<<endl;
     rect r1;
     rect r2(7);        
     rect r3(3,8);      
